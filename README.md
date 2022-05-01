@@ -6,7 +6,7 @@ describe <br>
 
   ## Table of Contents:
 
-  **[How to use](#how-to-use)** <br>
+  **[How to Use](#how-to-use)** <br>
   **[Application Demos](#application-demos)** <br>
   **[Link to Deployed Page](#link-to-deployed-page)** <br>
   **[References](#references)** <br>
