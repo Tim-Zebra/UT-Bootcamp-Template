@@ -18,9 +18,11 @@ describe <br /> <br />
 * 
 
 ## Application Demos:
-![Banner](./demos/) <br />
-![Banner](./demos/) <br /><br />
-<a href="">Video Demo</a>
+<p align="center">
+<img src="./demos/.png" alt="drawing" width="600" height="auto"/> <br />
+<img src="./demos/.gif" alt="drawing" width="600" height="auto"/> <br /><br />
+<font size="4"><a href="">Video Demo</a></font> 
+</p>
 
 ## Link to Deployed Page:
 
