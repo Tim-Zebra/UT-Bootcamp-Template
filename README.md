@@ -18,11 +18,11 @@ describe <br /> <br />
 * 
 
 ## Application Demos:
-<p align="center">
-<img src="./demos/.png" alt="drawing" width="600" height="auto"/> <br />
-<img src="./demos/.gif" alt="drawing" width="600" height="auto"/> <br /><br />
-<font size="4"><a href="">Video Demo</a></font> 
-</p>
+<h2 align="center">Title</h2>
+<p align="center"><img src="./demos/.png" alt="image demo" width="800" height="auto"/></p> <br /><br />
+<h2 align="center">Second Title</h2>
+<p align="center"><img src="./demos/.gif" alt="gif demo" width="800" height="auto"/></p> <br />
+<p align="center"><font size="4"><a href="">Video Demo</a></font></p>
 
 ## Link to Deployed Page:
 
